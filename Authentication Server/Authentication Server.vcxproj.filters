@@ -13,8 +13,5 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Data Access Layer">
-      <UniqueIdentifier>{bc9f8a4c-3068-44e4-94b4-1a4aa9f5480c}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
 </Project>
